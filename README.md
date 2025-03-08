@@ -5,7 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabriem0chain01" alt="gabriem0chain01" /></a> </p>
 
-- 🔭 Estou trabalhando com Web3 e smart contrants [Bloackchain](SOL)
+- 🔭 Estou trabalhando com Web3 e smart contrants [SOL](Blockchain)
+
+- 💬 About me **Sou um Desenvolvedor FullStack com experiência em JavaScript, React, Node.js React. Sou Apaixonado por tecnologia e mercado financeiro, busco soluções inovadoras para problemas complexos, sempre com foco em qualidade segurança e eficiência.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
